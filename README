@@ -1,0 +1,6 @@
+GUROBI FFI for GAMBIT
+Copyright 2011-2012 Magnus Andersson
+MIT license
+
+This is a FFI that includes the most necessary commands for operating GUROBI from GAMBIT.
+
